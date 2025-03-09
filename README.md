@@ -1,3 +1,3 @@
-#First Code Commit
+# Your First Code
 
-Test code for my very first GitHub commit.
+Test code for my very first GitHub commit
